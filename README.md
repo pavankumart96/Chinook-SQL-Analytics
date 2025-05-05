@@ -22,4 +22,4 @@ This project analyzes the Chinook music store database to extract business insig
 
 ## Author
 Pavan Kumar Thirumalasetti  
-[LinkedIn](https://www.linkedin.com/in/pavan-kumar-thirumalasetti-77138b153/) | [GitHub](https://github.com/pavankumart96)
+[LinkedIn](https://www.linkedin.com/in/pavan-kumar-thirumalasetti-77138b153/) | [GitHub](https://github.com/pavankumart96) | [Email](pthirumalase2023@fau.edu)
